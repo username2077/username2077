@@ -1,5 +1,7 @@
-# Things focus nowadays
-- 2022 Unified National Graduate Entrance Examination
+## Things focus nowadays
+- 📚2022 Unified National Graduate Entrance Examination
+- ⌨Junior Algorithm Study
+- 💰Cryptocurrency HODL
 
 <!---
 - 👋 Hi, I’m @username2077
