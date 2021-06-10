@@ -1,6 +1,6 @@
 ## Things focus nowadays
 - 📚2022 Unified National Graduate Entrance Examination
-- ⌨Junior Algorithm Study
+- ⌨MIT OpenCourseWare & Junior Algorithm Study
 - 💰Cryptocurrency HODL
 
 <!---
