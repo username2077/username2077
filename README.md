@@ -1,7 +1,7 @@
 ## Things focus nowadays
-- 📚2022 Unified National Graduate Entrance Examination
-- ⌨MIT OpenCourseWare & Junior Algorithm Study
-- 💰Cryptocurrency HODL
+- 📚 2022 Unified National Graduate Entrance Examination
+- ⌨ MIT OpenCourseWare & Junior Algorithm Study
+- 💰 Cryptocurrency HODL
 
 <!---
 - 👋 Hi, I’m @username2077
