@@ -1,4 +1,4 @@
-## Things focus nowadays ❤🧡💛💚💙💜🤎🖤🤍
+## Things focus nowadays
 - 📚 2022 Unified National Graduate Entrance Examination  `untill 20220501`
 - ⌨ MIT OpenCourseWare & Classic Algorithm Study         `before 20220901`
 - 💰 Cryptocurrency HODL                                  `untill END of life`
