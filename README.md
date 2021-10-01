@@ -3,7 +3,7 @@
 - ⌨ MIT OpenCourseWare & Classic Algorithm Study         `before 20220901`
 - 💰 Cryptocurrency HODL                                  `untill END of life`
 
-## 💻Softwares
+## 💻 Softwares
 - Sublime Text
 - Sublime Merge
 
