@@ -7,6 +7,10 @@
 - Sublime Text
 - Sublime Merge
 
+## Website
+- Youtube
+- Leetcode
+
 <!---
 - 👋 Hi, I’m @username2077
 - 👀 I’m interested in ...
