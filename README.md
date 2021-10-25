@@ -1,7 +1,5 @@
 # 📄 Things focus nowadays
-- 📚 2022 Unified National Graduate Entrance Examination  `untill 20220501`
-- ⌨ MIT OpenCourseWare & Classic Algorithm Study         `before 20220901`
-- 💰 Cryptocurrency HODL                                  `untill END of life`
+- Looking for a job.
 
 ## 💻 Softwares
 - Sublime Text
@@ -20,6 +18,10 @@
 --->
 
 <!---
+- 📚 2022 Unified National Graduate Entrance Examination  `untill 20220501`
+- ⌨ MIT OpenCourseWare & Classic Algorithm Study         `before 20220901`
+- 💰 Cryptocurrency HODL                                  `untill END of life`
+
 username2077/username2077 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
