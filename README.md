@@ -1,5 +1,6 @@
 # 📄 Things focus nowadays
 - Looking for a job.
+- Python，C/C++，Java，Perl & LISP.
 
 ## 💻 Softwares
 - Sublime Text
