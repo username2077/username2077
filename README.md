@@ -1,5 +1,7 @@
 # 📄 Things focus nowadays
 - Looking for a job.
+- Find myself.
+- Review computer science.
 
 
 <!---
