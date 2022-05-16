@@ -1,7 +1,7 @@
 # 📄 Things focus nowadays
 - Quit smoking.
-- Find myself.
 - Study computer science.
+- Hard working & life.
 
 
 <!---
