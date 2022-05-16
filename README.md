@@ -1,7 +1,8 @@
 # 📄 Things focus nowadays
 - Quit smoking.
-- Study computer science.
-- Hard working & life.
+- Math & Computer Science.
+- Python.
+- Working & Life.
 
 
 <!---
