@@ -2,6 +2,7 @@
 - Quit smoking.
 - Math & Computer Science.
 - Python.
+- WEB 3.0
 - Working & Life.
 
 
