@@ -1,7 +1,7 @@
 # 📄 Things focus nowadays
 - Quit smoking.
 - Math & Computer Science.
-- Python.
+- Master in Python.
 - WEB 3.0
 - Working & Life.
 
